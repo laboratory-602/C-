@@ -32,20 +32,15 @@ return 0 是返回值语句，它会在主函数结尾写入
 hello world的实例程序
 
 #include<stdio.h>
-
  int main() 
 {        
-       printf（"hello world"）; //打印hello world
-       
-       return 0;
+
+​	 printf（"hello world"）;//打印hello world
+​  return 0;
 }
 
-当你运行程序就会出现以下内容
 
-![2020-05-04](C:\Users\23937\Desktop\2020-05-04.png)
-
-Dec-c++软件初步使用方法![Inked2020-05-04 (1)_LI](C:\Users\23937\Desktop\Inked2020-05-04 (1)_LI.jpg)
 
 在程序写完后点击图片左侧画圈的编译按钮，检查错误
 
-之后点击右侧画圈的编译运行按钮，检查错误并弹出命令窗口如第一个图。
+之后点击右侧画圈的编译运行按钮。
