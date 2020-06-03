@@ -35,7 +35,7 @@ hello world的实例程序
 
  int main() 
 {        
-       printf（"hello world"）;//打印hello world
+       printf（"hello world"）; //打印hello world
        
        return 0;
 }
