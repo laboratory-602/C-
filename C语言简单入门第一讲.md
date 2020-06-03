@@ -33,8 +33,9 @@ hello world的实例程序
 
 #include<stdio.h>
  int main() 
-{        printf（"hello world"）;//打印hello world
-         return 0;
+{        
+       printf（"hello world"）;//打印hello world
+       return 0;
 }
 
 当你运行程序就会出现以下内容
