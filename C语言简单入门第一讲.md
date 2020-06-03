@@ -32,6 +32,7 @@ return 0 是返回值语句，它会在主函数结尾写入
 hello world的实例程序
 
 #include<stdio.h>
+
  int main() 
 {        
        printf（"hello world"）;//打印hello world
