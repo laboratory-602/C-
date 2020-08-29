@@ -1,4 +1,12 @@
 # C Language
+#include<stdio.h>  
+
+int main() {  
+     printf("Hello World!\n");  
+     return 0;  
+}
+
+
 从学习变量到循环结构  
 
 1、下载Typora  
