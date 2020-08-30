@@ -78,19 +78,32 @@ else
 
 在if的条件中判断，结果是真执行 复合语句A，结果是假，执行复合语句B；
 
-#include <stdio.h>
-int main()
-{
-int age;
-printf(“请输入你的年龄：”);
-scanf("%d", &age);
-if(age>=18){
-printf(“恭喜，你已经成年，可以使用该软件！\n”);
-}else{
-printf(“抱歉，你还未成年，不宜使用该软件！\n”);
-}
-return 0;
-}
+#include <stdio.h>  
+
+int main()  
+
+{  
+
+int age;  
+
+printf(“请输入你的年龄：”);  
+
+scanf("%d", &age);  
+
+if(age>=18){  
+
+printf(“恭喜，你已经成年，可以使用该软件！\n”);  
+
+}else{  
+
+printf(“抱歉，你还未成年，不宜使用该软件！\n”);  
+
+}  
+
+return 0;  
+
+}  
+
 可能的运行结果：
 
 请输入你的年龄：23↙
