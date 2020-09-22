@@ -9,23 +9,12 @@ int main() {
 
 从学习变量到循环结构  
 
-1、下载Typora  
-
-2、下载C语言编程的软件  
-
-3、打开安装指南按教程安装  
-
-4、用Typora软件打开.md文件学习  
+1、下载所需软件配置C语言环境（VS Code或Xcode）
 
 C语言编程软件地址在C语言入门第一讲中
 
-## Typora下载
-[百度网盘链接](https://pan.baidu.com/s/1KzWPPLqDwOj3SYCUbFq8kQ)
-提取码：bsc8
-
-## C语言编译软件下载（Windows）
-[百度网盘链接](https://pan.baidu.com/s/1S5KXfMfNj6wa4vsb9bbFLQ)
-提取码：coz8
+## C语言编译软件下载（Windows/Linux）
+[Visual Studio Code](https://code.visualstudio.com/)
 
 ## C语言编译软件下载（macOS）
 [Xcode下载](https://apps.apple.com/cn/app/xcode/id497799835?mt=12)
