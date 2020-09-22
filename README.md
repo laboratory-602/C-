@@ -12,9 +12,9 @@ int main() {
 
 ## C语言编译软件（Windows/Linux）
 [Visual Studio Code下载](https://code.visualstudio.com/)  
-[VS Code如何配置C语言开发环境?](https://www.jianshu.com/p/0fea49f46a53)  
-[VS Code配置C/C++语言开发环境Microsoft官方教程（英文）](https://code.visualstudio.com/docs/cpp/config-mingw)
-
+[VS Code如何配置C语言开发环境?（中文）](https://www.jianshu.com/p/0fea49f46a53)  
+[VS Code配置C/C++语言开发环境Microsoft官方教程(Windows)（英文）](https://code.visualstudio.com/docs/cpp/config-mingw)  
+[VS Code配置C/C++语言开发环境Microsoft官方教程(Linux)（英文）](https://code.visualstudio.com/docs/cpp/config-linux)
 ## C语言编译软件（macOS）
 [Xcode下载](https://apps.apple.com/cn/app/xcode/id497799835?mt=12)
 ### Xcode如何编写C语言：
