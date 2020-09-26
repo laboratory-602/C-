@@ -6,8 +6,6 @@ int main() {
      return 0;  
 }
 
-* 从学习变量到循环结构  
-
 * 下载所需软件配置C语言环境（Visual Studio 2019或Xcode）
 
 ## C语言编译软件（Windows/Linux）
