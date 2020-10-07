@@ -19,3 +19,8 @@ int main() {
 2、选择macOS -> Command Line Tool  
 
 3、Language选择C
+
+C语言学习PPT
+链接：https://pan.baidu.com/s/1hpbHp5_37U9XbL2W6ZkMKw 
+提取码：8rx6 
+复制这段内容后打开百度网盘手机App，操作更方便哦
