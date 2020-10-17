@@ -48,7 +48,7 @@ eg:  int a=3;//定义了整型变量a并使a=3
 
 printf（”格式符“，输出地址）eg：printf（”%d“，a）；
 
-输入 scanf （”格式符“，输入地址）eg：scanf （”%d“，a）；
+输入 scanf （”格式符“，输入地址）eg：scanf （”%d“，&a）；
 
 C语言的运算顺序是从右到左
 
