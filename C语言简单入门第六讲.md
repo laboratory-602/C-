@@ -23,8 +23,10 @@
  **printstar****();  /\*****调用****printstar****函数\*****/**
 
  **print_message****(); /\*****调用****print_message****函数\*****/**
+ 
+ **printstar****();  /\*****调用****printstar****函数\*****/**
 
- **return 0; /\*****调用****printstar****函数\*****/**
+ **return 0; /
 
 **}**
 
