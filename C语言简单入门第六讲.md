@@ -18,15 +18,11 @@
 
 **int** **main()**
 
-**{ void** **printstar****(); /\*****对****printstar****函数进行声明\*****/**
-
- **void** **print_message****();**  **/\*****对****print_message****函数进行声明\*****/**
+**{  
 
  **printstar****();  /\*****调用****printstar****函数\*****/**
 
  **print_message****(); /\*****调用****print_message****函数\*****/**
-
- **printstar****();**
 
  **return 0; /\*****调用****printstar****函数\*****/**
 
